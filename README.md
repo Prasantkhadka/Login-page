@@ -1,7 +1,7 @@
-Login/Signup Page Project
+Login/Signup Page Project:
 This project is a simple login/signup page built with React and Bootstrap. It provides basic authentication functionality allowing users to sign in or sign up for an account.
 
-Demo
+Demo:
 You can view a live demo of the project here (link).
 
 Features:
@@ -26,13 +26,13 @@ Navigate to the project directory:
 Install dependencies:
 -->npm install
 
-Usage
+Usage:
 Start the development server:
 -->npm start
 
 Open your browser and go to http://localhost:3000 to view the application.
 
-Contributing
+Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 License
