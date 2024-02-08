@@ -18,7 +18,7 @@ Installation:
 To run the project locally, follow these steps:
 
 Clone the repository:
--->git clone https://github.com/your-username/login-signup-page.git
+-->git clone https://github.com/Prasantkhadka/login-signup-page.git
 
 Navigate to the project directory:
 -->cd login-signup-page
